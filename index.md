@@ -30,7 +30,7 @@ Recreation of a stage of Mario 3 in Typescript with Phaser3, Webpack, NodeJS, Ti
 
 --![Preview of the game](mario-demo.gif)
 
-[!button variant="info" icon=":video_game:" iconAlign="right" text="Click here to play!"](https://spotify-friend-activity.fly.dev)    [!button variant="info" icon="mark-github" iconAlign="right" text="View source on Github"](https://github.com/JChouCode/spotify-friend-activity)
+[!button variant="info" icon=":video_game:" iconAlign="right" text="Click here to play!"](https://jchoucode.github.io/mario3-ts/)    [!button variant="info" icon="mark-github" iconAlign="right" text="View source on Github"](https://github.com/JChouCode/mario3-ts)
 
 A little background on why I made this game, I was interning at IoTeX (my first official internship) and a decent amount of their codebase was written in Typescript and Golang. I wanted to be able to learn both languages so what better way to learn a programming language than by coding out a game! 
 
@@ -42,9 +42,9 @@ Have you ever noticed that in spotify mobile, you can't see what music your frie
 
 --![Preview from deployed app!](spotify-friend-activity.png)
 
-[!button variant="info" icon="rocket" iconAlign="right" text="See the app live"](https://spotify-friend-activity.fly.dev)   or  [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/JChouCode/spotify-friend-activity)
+[!button variant="info" icon="rocket" iconAlign="right" text="See the app live"](https://spotify-friend-activity.onrender.com/)   or  [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/JChouCode/spotify-friend-activity)
 
-Spotify Friend Activity was built with React, React Static, Node, and Express. Hosted on Fly.io! The idea was to be able to see my friend's spotify activity easily via a web app. 
+Spotify Friend Activity was built with React, React Static, Node, and Express. Hosted on Render! The idea was to be able to see my friend's spotify activity easily via a web app. 
 
 #### How I made it
 
