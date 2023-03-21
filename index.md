@@ -48,7 +48,7 @@ Spotify Friend Activity was built with React, React Static, Node, and Express. H
 
 #### How I made it
 
-TLDR: By intercepting Spotify Desktop's web requests, I was able to locate the endpoint Spotify used to get friend data. I then found the token they used to authenticate and hit it via a CORs proxy.
+**TLDR:** By intercepting Spotify Desktop's web requests, I was able to locate the endpoint Spotify used to get friend data. I then found the token they used to authenticate and hit it via a CORs proxy.
 
 To start, I needed a way of getting that friend data which wasn't publicly documented in Spotify's public API. By intercepting Spotify Desktop's web requests, I was able to locate the endpoint Spotify used to get this data. Having located the endpoint, all I had to do was hit it and voila, right??? 
 
