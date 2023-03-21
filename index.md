@@ -40,7 +40,7 @@ Coded from scratch with :blue_heart:. You may experience a few strange bugs (eas
 
 Have you ever noticed that in spotify mobile, you can't see what music your friends are listening to while you can on the desktop app? This frustrated me so I decided to create a solution of my own. 
 
---![Preview from deployed app!](spotify-friend-activity.png)
+--![Preview from deployed app!](spotify-friend.png)
 
 [!button variant="info" icon="rocket" iconAlign="right" text="See the app live"](https://spotify-friend-activity.onrender.com/)   or  [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/JChouCode/spotify-friend-activity)
 
