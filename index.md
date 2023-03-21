@@ -4,8 +4,8 @@ icon: person
 
 # About Me
 
-!!! Currently looking for new opportunities (full stack, backend, frontend), in that order. 
-I was recently laid off at Apollo GraphQL and have prior experience fullstack at Apollo GraphQL, ServiceNow, IoTeX, and NASA.
+!!! Currently looking for new SWE opportunities (full stack, backend, or frontend)!
+I was recently laid off at Apollo GraphQL and have prior experience fullstack at Apollo GraphQL, ServiceNow, IoTeX, and NASA. </br>Feel free to reach out, would love to chat more :)
 !!!
 
 Hi! I'm Jeffrey :wave:. I'm a Taiwanese American :flag-tw: :flag-us: software engineer born and raised in the Bay Area, CA. 
@@ -30,7 +30,7 @@ Recreation of a stage of Mario 3 in Typescript with Phaser3, Webpack, NodeJS, Ti
 
 --![Preview of the game](mario-demo.gif)
 
-[!button variant="info" icon=":video_game:" iconAlign="right" text="Click here to play!"](https://jchoucode.github.io/mario3-ts/)    [!button variant="info" icon="mark-github" iconAlign="right" text="View source on Github"](https://github.com/JChouCode/mario3-ts)
+[!button variant="primary" icon=":video_game:" iconAlign="right" text="Click here to play!"](https://jchoucode.github.io/mario3-ts/)    [!button variant="info" icon="mark-github" iconAlign="right" text="View source on Github"](https://github.com/JChouCode/mario3-ts)
 
 A little background on why I made this game, I was interning at IoTeX (my first official internship) and a decent amount of their codebase was written in Typescript and Golang. I wanted to be able to learn both languages so what better way to learn a programming language than by coding out a game! 
 
@@ -42,7 +42,7 @@ Have you ever noticed that in spotify mobile, you can't see what music your frie
 
 --![Preview from deployed app!](spotify-friend.png)
 
-[!button variant="info" icon="rocket" iconAlign="right" text="See the app live"](https://spotify-friend-activity.onrender.com/)   or  [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/JChouCode/spotify-friend-activity)
+[!button variant="primary" icon="rocket" iconAlign="right" text="See the app live"](https://spotify-friend-activity.onrender.com/) [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/JChouCode/spotify-friend-activity)
 
 Spotify Friend Activity was built with React, React Static, Node, and Express. Hosted on Render! The idea was to be able to see my friend's spotify activity easily via a web app. 
 
@@ -58,9 +58,23 @@ Next, I tried calling the API from Postman but kept getting CORS errors! To get 
 
 The last and final part was taking the JSON data and creating a pretty React app to display this data. For this, I decide to use a React-Static app that called my deployed CORs proxy. Some cool features I added include being able to play the music from the web app and being able to see if their playing live via a live music animation. 
 
+### IoTeX Codelabs
+
+IoTeX Codelabs provides guided, tutorial, hands-on coding experience for IoTeX developers. The entire website including all the tutorials within were designed / coded by me. Every tutorial includes real code snippets that you can follow to do cool stuff, such as deploying a d-App, decentralized application on the blockchain!
+
+--![IoTeX codelabs!](iotex.png)
+
+[!button variant="danger" icon="rocket" iconAlign="right" text="View website live"](https://codelabs.iotex.io/) [!button variant="info" icon="mark-github" iconAlign="right" text="View on Github"](https://github.com/iotexproject/codelabs)
+
+!!!danger Note: Codelabs display functionality is broken :(
+I just noticed but for some reason when you click into a codelab on the website it displays a white screen instead of the original content. I believe this is a version compabitability error as it's running a really old version of React. As I coded this as part of my internship in 2018, I no longer have the perms to fix this. You can still inspect element to see that the original content exists, but it won't show it beautifully like how I intended unfortunately.
+!!!
+
+Making this website involved knowledge of React, HTML, CSS, JS, and Solidity for the coding tutorials! Some examples of the tutorials include deploying smart contracts, d-Apps, and even a tutorial for how other develops can contribute their own codelabs to be included in the website. This was a really fun project where I learned a ton of new technologies and build something cool from scratch!
+
 ### More projects
 
-I have many more cool projects on Github, which I didn't get the chance to feature here! [check them out there](https://github.com/JChouCode)!
+I have many more cool projects on Github, such as a Naruto platformer game in Golang, etc. which I didn't get the chance to write up and  feature here yet! [Check them out at my Github :)](https://github.com/JChouCode)
 
 ## Resume
 
