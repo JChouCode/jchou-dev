@@ -5,13 +5,14 @@ icon: person
 # About Me
 
 !!! Currently looking for new SWE opportunities (full stack, backend, or frontend)!
-I was recently laid off at Apollo GraphQL and have prior experience fullstack at Apollo GraphQL, ServiceNow, IoTeX, and NASA. </br>Feel free to reach out, would love to chat more :)
+I have prior experience fullstack at Apollo GraphQL, ServiceNow, IoTeX, and NASA.
+<br/>Feel free to reach out, would love to chat more :)
 !!!
 
 Hi! I'm Jeffrey :wave:. I'm a Taiwanese American :flag-tw: :flag-us: software engineer born and raised in the Bay Area, CA. 
 I graduated from Cornell University in 2022, with a bachelors degree in Computer Science. As a developer, I'm constantly in the pursuit of learning and seek to better myself everyday. 
 
-Outside of work, some of my passions include number one, weightlifting :weight_lifter:. I love going to the gym and lifting heavy weight. Number two, surfing :man-surfing:. It's a new hobby I picked up during quarantine but it's super fun and I suggest you try it too. I often drive down to Santa Cruz where the conditions are best. No. 3, fashion :kimono:. I love keeping up with the latest fashion trends!
+Outside of work, some of my passions include 1. weightlifting :weight_lifter:! I love going to the gym and lifting heavy weight. 2. Surfing :man-surfing:! It's a new hobby I picked up during quarantine but it's super fun and I suggest you try it too. I often drive down to Santa Cruz where the conditions are best. 3. Fashion :kimono:! I love keeping up with the latest fashion trends!
 
 ## Work Experience
 - **Software Engineer**, Apollo GraphQL (backend/infra) Aug-Dec 2022
